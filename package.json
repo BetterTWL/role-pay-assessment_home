@@ -1,0 +1,13 @@
+{
+  "name": "office-competency-portal-hub",
+  "version": "1.0.0",
+  "description": "騏宏科技 職缺職能與薪資結構評估門戶網站",
+  "scripts": {
+    "dev": "vite",
+    "dev:web": "npm run dev --prefix web",
+    "dev:mobile": "npm run dev --prefix mobile"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}
